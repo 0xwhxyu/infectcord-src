@@ -1,4 +1,5 @@
-# Infect Cord x2 Official Version
+# Infectcord src
+#thanks kek for giving me the files for me to deobf
 
 Thank you for choosing Infect Cord x2 Official Version! The Only Premium Selfbot In This Scene !!
 
@@ -40,7 +41,7 @@ Thank you for choosing Infect Cord x2 Official Version! The Only Premium Selfbot
 
 ## Additional Information
 
-- Join the official server [here](https://discord.gg/qZd4E84Syy) for bug fixes, updates, and support
+- Join the official server [here](https://discord.gg/chiterl) for bug fixes, updates, and support
 - Review the Terms of Service (TOS) provided in the AutoBuy.
 - Sharing, reselling, or leaking this bot is strictly prohibited. No support or updates will be provided in such cases.
 
