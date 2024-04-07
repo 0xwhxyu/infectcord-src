@@ -1,5 +1,5 @@
 # Infectcord src
-# thanks kek for giving me the files for me to deobf
+# thanks (kek)[https://discord.gg/craks] for giving me the files for me to deobf
 
 Thank you for choosing Infect Cord x2 Official Version! The Only Premium Selfbot In This Scene !!
 
